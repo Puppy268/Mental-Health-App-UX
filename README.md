@@ -75,7 +75,9 @@ Designed a modern mobile application that enables users to:
 
 ## 📷 Screenshots
 
-<img src="mental-health-app.png" width="900" alt="Mental Health App">
+
+
+<img src="https://raw.githubusercontent.com/Puppy268/Mental-Health-App-UX/main/Mental%20Health%20App.png" width="900" alt="Mental Health App UX">
 
 ---
 
